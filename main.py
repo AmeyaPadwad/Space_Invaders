@@ -3,6 +3,10 @@ import random
 import math
 from pygame import mixer
 
+""" AJ :
+    1. pygame is not installed, throws error for me, I am lazy to install :-P
+    2. always good to check if module installed, then install it for user!
+"""
 pygame.init()
 
 #class for all elements in the game
